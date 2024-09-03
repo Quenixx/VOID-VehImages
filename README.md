@@ -4,8 +4,10 @@
 All the images are named after the car model, which should give you a quick plug-and-play process for your own scripts :)
 
 Thanks to @Bentix-cs for the fivem-greenscreener resource
-
 https://github.com/Bentix-cs/fivem-greenscreener
+
+Thanks to @PLOKMJNB for the 150+ addon cars
+https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack
 
 Example pics:
 ![envisage](https://github.com/user-attachments/assets/1e8db7d2-dacd-414b-b0a6-fc14698e376c)
