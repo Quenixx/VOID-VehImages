@@ -15,7 +15,11 @@ Cropped ALL images to correct size and get rid of unnecessary transparent backgr
 # Example pics:
 ![envisage](https://github.com/user-attachments/assets/768c11d8-86b4-40e2-8978-764de3bc220f)
 ![policeold1](https://github.com/user-attachments/assets/defe5f28-9d1c-49a7-b4df-3785fdfb8937)
-
+![inductor2](https://github.com/user-attachments/assets/736c3f36-f95c-4906-82cc-5ce225ada21d)
+![bulldozer](https://github.com/user-attachments/assets/866f1bcd-6a94-4b5d-9ff0-61453bd71a4e)
+![shotaro](https://github.com/user-attachments/assets/d1b9408d-967f-4316-8ab0-69e39e763765)
+![policet](https://github.com/user-attachments/assets/ef5c4679-da68-4f1b-b8b5-1bc8b3aad25b)
+![slamvan2](https://github.com/user-attachments/assets/66dffd37-8c5e-42a4-82d9-2919fe3ccf3c)
 		
 
 Copyright (c) 2024 VOID
@@ -37,6 +41,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
