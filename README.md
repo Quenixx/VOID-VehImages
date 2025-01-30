@@ -7,37 +7,23 @@ All the images are named after the car model, which should give you a quick plug
 Removed all real car models and only left out gta cars, also replaced broken images with working ones.
 
 **Fixed images:**
-voltic2
 
-trailersmall2
-
-scarab
-
-ruiner2
-
-rhino
-
-policeb
-
-oppressor
-
-mule
-
-khanjali
-
-halftrack
-
-deluxo
-
-cerberus
-
-caracara
-
-barrage
-
-apc
-
-airtug
+voltic2	
+trailersmall2	
+scarab	
+ruiner2	
+rhino	
+policeb	
+oppressor	
+mule	
+khanjali	
+halftrack	
+deluxo	
+cerberus	
+caracara	
+barrage	
+apc	
+airtug	
 
 # UPDATE 1.0.1
 Cropped ALL images to correct size and get rid of unnecessary transparent background which made the cars smaller when used.
