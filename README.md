@@ -8,20 +8,35 @@ Removed all real car models and only left out gta cars, also replaced broken ima
 
 **Fixed images:**
 voltic2
+
 trailersmall2
+
 scarab
+
 ruiner2
+
 rhino
+
 policeb
+
 oppressor
+
 mule
+
 khanjali
+
 halftrack
+
 deluxo
+
 cerberus
+
 caracara
+
 barrage
+
 apc
+
 airtug
 
 # UPDATE 1.0.1
