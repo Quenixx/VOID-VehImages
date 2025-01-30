@@ -3,6 +3,9 @@
 
 All the images are named after the car model, which should give you a quick plug-and-play process for your own scripts :)
 
+# UPDATE 1.2.0
+Removed all real car models and only left out gta cars, also replaced broken images with working ones.
+
 # UPDATE 1.0.1
 Cropped ALL images to correct size and get rid of unnecessary transparent background which made the cars smaller when used.
 
