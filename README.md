@@ -1,5 +1,5 @@
 # VOID-VehImages
- A collection of ALL (some military and other blacklisted in the server was not included, over 150+ addon vehicles also included) vehicles PNG with transparent background images from gta cars. (Bottom Dollar Bounties DLC). Feel free to use them in your server / script :)
+ A collection of ALL (some military and other blacklisted in the server was not included) vehicles PNG with transparent background images from gta cars. (Bottom Dollar Bounties DLC). Feel free to use them in your server / script :)
 
 All the images are named after the car model, which should give you a quick plug-and-play process for your own scripts :)
 
@@ -9,19 +9,16 @@ Cropped ALL images to correct size and get rid of unnecessary transparent backgr
 # Thanks to @Bentix-cs for the fivem-greenscreener resource
 # https://github.com/Bentix-cs/fivem-greenscreener
 
-# Thanks to @PLOKMJNB for the 150+ addon cars
-# https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack
 
 # Example pics:
 ![envisage](https://github.com/user-attachments/assets/768c11d8-86b4-40e2-8978-764de3bc220f)
-![policeold1](https://github.com/user-attachments/assets/defe5f28-9d1c-49a7-b4df-3785fdfb8937)
 ![inductor2](https://github.com/user-attachments/assets/736c3f36-f95c-4906-82cc-5ce225ada21d)
 ![bulldozer](https://github.com/user-attachments/assets/866f1bcd-6a94-4b5d-9ff0-61453bd71a4e)
 ![shotaro](https://github.com/user-attachments/assets/d1b9408d-967f-4316-8ab0-69e39e763765)
 ![slamvan2](https://github.com/user-attachments/assets/66dffd37-8c5e-42a4-82d9-2919fe3ccf3c)
 ![flashgt](https://github.com/user-attachments/assets/6558198d-4b49-4648-930c-c18b0f9d389b)
 
-Copyright (c) 2024 VOID
+Copyright (c) 2025 VOID
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
