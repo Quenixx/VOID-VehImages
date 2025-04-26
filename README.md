@@ -1,10 +1,10 @@
 # VOID-VehImages
- A collection of ALL (some military and other blacklisted in the server was not included) vehicles PNG with transparent background images from gta cars. (Bottom Dollar Bounties DLC). Feel free to use them in your server / script :)
+A collection of all vehicle PNG images from GTA (Bottom Dollar Bounties DLC) with transparent backgrounds. Please note that some military and blacklisted vehicles, as per server policies, have been excluded. Feel free to use these images in your server or scripts. :)
 
-All the images are named after the car model, which should give you a quick plug-and-play process for your own scripts :)
+All images are named according to their respective car models, allowing for a quick and seamless plug-and-play integration into your own scripts.
 
 # UPDATE 1.2.0
-Removed all real car models and only left out gta cars, also replaced broken images with working ones.
+Removed all real-world car models, retaining only GTA vehicles, and replaced any broken images with functional ones.
 
 **Fixed images:**
 
@@ -26,7 +26,7 @@ apc
 airtug  
 
 # UPDATE 1.0.1
-Cropped ALL images to correct size and get rid of unnecessary transparent background which made the cars smaller when used.
+Resized all images to the correct dimensions and removed unnecessary transparent backgrounds, which previously caused the cars to appear smaller when used.
 
 # Thanks to @Bentix-cs for the fivem-greenscreener resource
 # https://github.com/Bentix-cs/fivem-greenscreener
